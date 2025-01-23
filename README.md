@@ -9,11 +9,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" height="50" /> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" width="50" height="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="50" height="50"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" width="50" height="50"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
@@ -21,10 +21,7 @@
     </ul>
     <h2>Current Learning</h2>
     <ul> 
-      <li><strong>Learning Cloud</strong>: Exploring cloud technologies to better understand and implement cloud-based solutions.</li> 
-      <li><strong>.NET Frameworks</strong>: Currently deepening my knowledge of various C# frameworks to enhance my backend development skills.</li> 
-      <li><strong>Linux</strong>: Gaining proficiency in Linux to enhance my system administration skills.</li> 
-      <li><strong>DevOps</strong>: Learning DevOps practices to improve my understanding of deployment processes and continuous integration/continuous deployment (CI/CD).</li> </ul>
+      <li><strong>Azure</strong>: Exploring cloud technologies to better understand and implement cloud-based solutions.</li> 
     <h2>Get in Touch</h2>
     <p>Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!</p>
     <ul>

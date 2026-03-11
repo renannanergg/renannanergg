@@ -20,14 +20,21 @@ I leverage a modern stack to build robust applications, with a heavy emphasis on
 
 ---
 
-### ☁️ Azure Specialist & Certifications
+### 🎓 Certifications
+
+* 🏅 **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/RenanGuerra-1046/AF8633DB426A19FF?sharingId=6A19F93F114E6044)**
+
+---
+
+### ☁️ Azure Specialist
 
 I have a solid foundation in cloud computing, transforming business requirements into resilient, cloud-native solutions.
 
-* **Certified:** Microsoft Certified: Azure AI Fundamentals (AI-900).
 * **Azure Services:** Expert in Azure Functions, Azure SQL Database, and Azure DevOps for CI/CD pipelines.
 * **AI Integration:** Experience with **Azure AI Foundry** to build and deploy intelligent applications.
 <br clear="left"/>
+
+---
 
 ### 📈 Key Expertise
 * **Architecture:** Clean Architecture, Microservices, and DDD principles.
